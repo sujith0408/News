@@ -30,3 +30,6 @@ https://medium.com/google-cloud
 
 E-books
 https://www.cloudmanagementinsider.com/ebooks/
+
+https://www.comparethecloud.net/
+
