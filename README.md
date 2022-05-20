@@ -24,3 +24,9 @@ https://www.techrepublic.com/article/master-linux-docker-before-next-boom/ ****
 
 CheatSheet
 https://www.techrepublic.com/topic/smart-persons-guides/  
+
+Google Cloud
+https://medium.com/google-cloud
+
+E-books
+https://www.cloudmanagementinsider.com/ebooks/
