@@ -16,3 +16,11 @@ https://www.businessinsider.in/?r=US&IR=T
 
 https://biztechmagazine.com/
 
+https://www.cloudcomputing-news.net/
+
+https://cloudtweaks.com/category/devops/ ****
+
+https://www.techrepublic.com/article/master-linux-docker-before-next-boom/ ****
+
+CheatSheet
+https://www.techrepublic.com/topic/smart-persons-guides/  
