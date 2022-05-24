@@ -39,3 +39,6 @@ https://cloud-computing.tmcnet.com/
 
 https://azure.microsoft.com/en-us/blog/
 
+https://www.gcppodcast.com/
+
+
