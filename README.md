@@ -48,3 +48,11 @@ https://cloudtweaks.com/podcasts/
 https://cloudtweaks.com/category/devops/
 
 https://journalofcloudcomputing.springeropen.com/
+
+https://www.computer.org/csdl/journal/cc/2021/04
+
+https://www.informationweek.com/
+
+https://www.crn.com/news/cloud/?itc=refresh
+
+
