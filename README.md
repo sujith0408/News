@@ -41,4 +41,6 @@ https://azure.microsoft.com/en-us/blog/
 
 https://www.gcppodcast.com/
 
+https://podcasts.apple.com/us/podcast/the-cloud-pod/id1447083316
+
 
