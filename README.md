@@ -35,3 +35,7 @@ https://www.comparethecloud.net/
 
 https://www.computerworld.com/in/category/cloud-computing/
 
+https://cloud-computing.tmcnet.com/
+
+https://azure.microsoft.com/en-us/blog/
+
